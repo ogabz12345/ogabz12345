@@ -12,7 +12,7 @@
 
 - 🎉 Fun Fact: I'm an avid football and squash player!
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Angular**, **Highcharts**, **Echarts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
