@@ -4,6 +4,10 @@
 
 - 🔭 👨‍💻 Software Engineer with core expertise in frontend development and web accessibility.
 
+- 🔭 I’m currently working on [MyCheerly](https://app.cheerlypay.com/book-demo)
+
+- 👯 I’m looking to collaborate on [MyOga](https://www.myoga.com.ng/)
+
 - 🌱 Passionate educator who dedicates time to mentoring aspiring tech professionals.
 
 - 👨‍💻 All of my projects are available at [https://deleogabi-portfolio.netlify.app/](https://deleogabi-portfolio.netlify.app/)
